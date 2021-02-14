@@ -10,3 +10,5 @@
 - 😄 Pronouns: ...
 -->
 - ⚡ Fun fact: I almost spend 12 hours listening Music.
+<img src="https://github-readme-stats.vercel.app/api?username=mananaggarwal2001&show_icons=true&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mananaggarwal2001&layout=compact&theme=dark"/>
