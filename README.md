@@ -1,7 +1,5 @@
-### Hello MySelf Manan Aggarwal  👋
+################# Hello MySelf Manan Aggarwal  👋
 
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on NewsLetter SignUp WebPage
 - 🌱 I’m currently learning Backend Development
