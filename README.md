@@ -2,14 +2,14 @@
 
 ## About MySelf
 - 🔭 I’m currently working on <strong>NewsLetter SignUp WebPage</strong>
-- 🌱 I’m currently Learning <h3>Backend Development</h3>
-<!--- 👯 I’m looking to collaborate on --> 
-- 🤔 I’m looking for help with <h3> MDN Documentation</h3>
-- 💬 Ask me about ideas <h3> For the Project </h3>
+- 🌱 I’m currently Learning <strong>Backend Development</strong>
+
+- 🤔 I’m looking for help with <strong> MDN Documentation</strong>
+- 💬 Ask me about ideas <strong> For the Project </strong>
 - ⚡ Fun fact: I almost spend 12 hours listening Music.
 
+## How To Reach Me
  
- ## How To Reach Me
  <img align="left" alt="codeSTACKr | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
  <img align="left" alt="codeSTACKr | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
  <br/>
