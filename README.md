@@ -1,11 +1,11 @@
 # Hi there, I'm Manan Aggarwal 👋
 
 ## About MySelf
-- 🔭 I’m currently working on <strong>NewsLetter SignUp WebPage</strong>
-- 🌱 I’m currently Learning <strong>Backend Development</strong>
+- 🔭 I’m currently working on **NewsLetter SignUp WebPage**
+- 🌱 I’m currently Learning **Backend Development**
 
-- 🤔 I’m looking for help with <strong> MDN Documentation</strong>
-- 💬 Ask me about ideas <strong> For the Project </strong>
+- 🤔 I’m looking for help with  **MDN Documentation**
+- 💬 Ask me about ideas  **For the Project**
 - ⚡ Fun fact: I almost spend 12 hours listening Music.
 
 ## How To Reach Me
