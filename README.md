@@ -2,7 +2,7 @@
 
 ## About MySelf
 - 🔭 I’m currently working on **NewsLetter SignUp WebPage**
-      <img width="410 " align="right" src="https://user-images.githubusercontent.com/75381077/111533441-c7ab5e00-878c-11eb-8a34-ac90167ea82f.gif"/>
+      <img width="400 " align="right" src="https://user-images.githubusercontent.com/75381077/111533441-c7ab5e00-878c-11eb-8a34-ac90167ea82f.gif"/>
 - 🌱 I’m currently Learning **Backend Development**
             
 - 🤔 I’m looking for help with  **MDN Documentation**
