@@ -2,18 +2,21 @@
 
 ## About MySelf
 - 🔭 I’m currently working on **NewsLetter SignUp WebPage**
+      <img width="430" align="right" src="https://user-images.githubusercontent.com/75381077/111533441-c7ab5e00-878c-11eb-8a34-ac90167ea82f.gif"/>
 - 🌱 I’m currently Learning **Backend Development**
-
+            
 - 🤔 I’m looking for help with  **MDN Documentation**
 - 💬 Ask me about ideas  **For the Project**
 - ⚡ Fun fact: I almost spend 12 hours listening Music.
+                 
 
 ## How To Reach Me
  
- <img align="right" src="https://komarev.com/ghpvc/?username=mananaggarwal2001&color=green&label=PROFILE+VIEWS"/>
- <img align="left" alt="codeSTACKr | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
- <img align="left" alt="codeSTACKr | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
- <br/>
+<img align="right" src="https://komarev.com/ghpvc/?username=mananaggarwal2001&color=green&label=PROFILE+VIEWS"/>
+
+<img align="left" alt="codeSTACKr | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="codeSTACKr | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<br/>
 
 
 
