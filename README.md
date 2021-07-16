@@ -1,4 +1,4 @@
-# Hi there, I'm Manan Aggarwal 👋
+# Hi there, I'm Manan Aggarwal  <img width="50" align="justify" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"/>
 
 ## About MySelf
 - 🔭 I’m currently working on **NewsLetter SignUp WebPage**
