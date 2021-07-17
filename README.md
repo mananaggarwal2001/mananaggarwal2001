@@ -40,4 +40,11 @@
 ## My Current Status
 <img src="https://github-readme-stats.vercel.app/api?username=mananaggarwal2001&show_icons=true&theme=dark"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mananaggarwal2001&layout=compact&theme=dark"/>
-<img src="https://activity-graph.herokuapp.com/graph?username=mananaggarwal2001&theme=github&line=CDF0EA&area_color=B5EAEA&point=24292e&area=true&hide_border=true)](https://github.com/mananaggarwal2001/github-readme-activity-graph)"/>
+
+## My contibution Curve and Visitors
+
+
+  <img align="justify" alt="visitors" width="350px" src="https://profile-counter.glitch.me/mananaggarwal2001/count.svg" />
+  
+  <br/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=mananaggarwal2001&theme=github&line=CDF0EA&area_color=B5EAEA&point=24292e&area=true&hide_border=true)](https://github.com/mananaggarwal2001/github-readme-activity-graph)"/>
