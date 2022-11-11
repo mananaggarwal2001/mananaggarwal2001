@@ -19,7 +19,8 @@
 ## My Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mananaggarwal2001" alt="mananaggarwal2001" /></a> </p>
 
-
+## My Badges
+[![@mananaggarwal2001's Holopin board](https://holopin.me/mananaggarwal2001)](https://holopin.io/@mananaggarwal2001)
 
 ## How To Reach Me
  
