@@ -102,6 +102,16 @@ const manan = {
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mananaggarwal2001&theme=tokyo-night&hide_border=true&area=true&radius=12" alt="Contribution graph"/>
 </p>
 
+## 🐍 Contribution snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mananaggarwal2001/mananaggarwal2001/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mananaggarwal2001/mananaggarwal2001/output/github-snake.svg"/>
+    <img alt="Snake eating my GitHub contributions" src="https://raw.githubusercontent.com/mananaggarwal2001/mananaggarwal2001/output/github-snake-dark.svg"/>
+  </picture>
+</p>
+
 ## 🏆 Trophies
 
 <p align="center">
