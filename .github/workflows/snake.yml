@@ -25,7 +25,9 @@ jobs:
 
       - name: Push the SVGs to the output branch
         run: |
-          cd dist
+          mkdir publish
+          cp dist/*.svg publish/
+          cd publish
           git init -b output
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
