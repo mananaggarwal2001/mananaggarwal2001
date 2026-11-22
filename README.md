@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:bb9af7&height=220&section=header&text=Manan%20Aggarwal&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Web%20Developer&descAlignY=56&descSize=22&animation=fadeIn" width="100%" alt="Manan Aggarwal, Full-Stack Web Developer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:bb9af7,100:f7768e&height=240&section=header&text=Manan%20Aggarwal&fontSize=66&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Web%20Developer%20%C2%B7%20React%20and%20Next.js&descAlignY=57&descSize=20&animation=twinkling" width="100%" alt="Manan Aggarwal, Full-Stack Web Developer"/>
 </p>
 
 <p align="center">
@@ -14,31 +14,25 @@
   <img src="https://komarev.com/ghpvc/?username=mananaggarwal2001&style=for-the-badge&color=bb9af7&label=Profile+views" alt="Profile views"/>
 </p>
 
-<br/>
+<p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
 
-## 🙋‍♂️ About me
+<h2 align="center">🙋‍♂️ About me</h2>
 
-```javascript
-const manan = {
-  role:        "Full-Stack Web Developer",
-  location:    "Melbourne, Australia",
-  education:   "Master of Information Technology @ RMIT University",
-  frontend:    ["React", "Next.js", "Tailwind CSS"],
-  backend:     ["Node.js", "Express", "MongoDB", "MySQL"],
-  focusingOn:  ["Next.js auth, middleware & server actions", "SSR / SSG / ISR"],
-  practising:  "Data structures & algorithms in Java (150+ problems solved)",
-  nextUp:      "Machine learning",
-  openTo:      ["Internships", "Graduate roles", "Collaborations"],
-};
-```
+<p align="center">
+  <img src="assets/terminal.svg" width="100%" alt="Terminal intro: Manan Aggarwal, Full-Stack Web Developer in Melbourne. React, Next.js, Tailwind CSS, Node.js, Express, MongoDB, MySQL. Master of IT at RMIT University."/>
+</p>
 
-## 🛠️ Tech stack
+<p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
+
+<h2 align="center">🛠️ Tech stack</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mongodb,mysql,java,git,github,idea&theme=dark&perline=7" alt="HTML, CSS, JavaScript, React, Next.js, Tailwind CSS, Node.js, Express, MongoDB, MySQL, Java, Git, GitHub, IntelliJ IDEA"/>
 </p>
 
-## 🚀 Featured projects
+<p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
+
+<h2 align="center">🚀 Featured projects</h2>
 
 <table>
   <tr>
@@ -87,7 +81,9 @@ const manan = {
   </tr>
 </table>
 
-## 📊 GitHub stats
+<p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
+
+<h2 align="center">📊 GitHub stats</h2>
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=mananaggarwal2001&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub stats"/>
@@ -102,7 +98,9 @@ const manan = {
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mananaggarwal2001&theme=tokyo-night&hide_border=true&area=true&radius=12" alt="Contribution graph"/>
 </p>
 
-## 🐍 Contribution snake
+<p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
+
+<h2 align="center">🐍 Contribution snake</h2>
 
 <p align="center">
   <picture>
@@ -112,15 +110,21 @@ const manan = {
   </picture>
 </p>
 
-## 🏆 Trophies
+<p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
+
+<h2 align="center">🏆 Trophies</h2>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.screw-hand.vercel.app/?username=mananaggarwal2001&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub trophies"/></a>
 </p>
 
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote"/>
+</p>
+
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,100:7aa2f7&height=120&section=footer" width="100%" alt=""/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f7768e,50:bb9af7,100:7aa2f7&height=130&section=footer" width="100%" alt=""/>
 </p>
 
 <p align="center"><i>Thanks for stopping by! Let's connect on <a href="https://linkedin.com/in/mananaggarwal2001">LinkedIn</a>.</i></p>
