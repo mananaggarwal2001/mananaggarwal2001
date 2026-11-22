@@ -85,7 +85,7 @@ My solutions to the Coding Blocks Java DSA course, organised topic by topic: arr
 ## Trophies
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=mananaggarwal2001&theme=darkhub&no-frame=true&margin-w=10&row=1" alt="GitHub trophies"/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.screw-hand.vercel.app/?username=mananaggarwal2001&theme=darkhub&no-frame=true&margin-w=10&row=1" alt="GitHub trophies"/></a>
 </p>
 
 <p align="center"><i>Thanks for visiting! Feel free to reach out on LinkedIn.</i></p>
