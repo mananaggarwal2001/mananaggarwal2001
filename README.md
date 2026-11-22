@@ -20,7 +20,7 @@
 <h2 align="center">🙋‍♂️ About me</h2>
 
 <p align="center">
-  <img src="assets/terminal.svg" width="100%" alt="Terminal intro: Manan Aggarwal, Full-Stack Web Developer in Melbourne. React, Next.js, Tailwind CSS, Node.js, Express, MongoDB, MySQL. Master of IT at RMIT University."/>
+  <img src="assets/terminal-v2.svg" width="100%" alt="Terminal intro: Manan Aggarwal, Full-Stack Web Developer in Melbourne. React, Next.js, Tailwind CSS, Node.js, Express, MongoDB, MySQL. Master of IT at RMIT University."/>
 </p>
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
