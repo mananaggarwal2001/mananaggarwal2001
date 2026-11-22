@@ -9,6 +9,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/mananaggarwal2001"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik00Ljk4IDMuNUM0Ljk4IDQuODggMy44NyA2IDIuNSA2UzAgNC44OCAwIDMuNSAxLjEyIDEgMi41IDFzMi40OCAxLjEyIDIuNDggMi41ek0uMjIgOGg0LjU2djE0SC4yMlY4em03LjUgMGg0LjM3djEuOTJoLjA2Yy42MS0xLjE1IDIuMS0yLjM2IDQuMzItMi4zNiA0LjYyIDAgNS40NyAzLjA0IDUuNDcgN3Y3LjQ0aC00LjU2di02LjZjMC0xLjU3LS4wMy0zLjYtMi4yLTMuNi0yLjIgMC0yLjUzIDEuNzItMi41MyAzLjQ5VjIySDcuNzJWOHoiLz48L3N2Zz4=" alt="LinkedIn"/></a>
+  <a href="https://mananpersonalportfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-BB9AF7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/></a>
   <a href="mailto:mananaggarwal2001@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://img.shields.io/badge/Location-Melbourne%2C%20AU-7AA2F7?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Melbourne, Australia"/>
   <img src="https://komarev.com/ghpvc/?username=mananaggarwal2001&style=for-the-badge&color=bb9af7&label=Profile+views" alt="Profile views"/>
@@ -127,4 +128,4 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f7768e,50:bb9af7,100:7aa2f7&height=130&section=footer" width="100%" alt=""/>
 </p>
 
-<p align="center"><i>Thanks for stopping by! Let's connect on <a href="https://linkedin.com/in/mananaggarwal2001">LinkedIn</a>.</i></p>
+<p align="center"><i>Thanks for stopping by! Check out my <a href="https://mananpersonalportfolio.netlify.app/">portfolio</a> or connect on <a href="https://linkedin.com/in/mananaggarwal2001">LinkedIn</a>.</i></p>
